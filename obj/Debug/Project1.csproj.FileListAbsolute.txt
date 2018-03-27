@@ -1,0 +1,7 @@
+C:\Users\stelcomms\source\repos\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\stelcomms\source\repos\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\stelcomms\source\repos\Project1\bin\Debug\Project1.exe.config
+C:\Users\stelcomms\source\repos\Project1\bin\Debug\Project1.exe
+C:\Users\stelcomms\source\repos\Project1\bin\Debug\Project1.pdb
+C:\Users\stelcomms\source\repos\Project1\obj\Debug\Project1.exe
+C:\Users\stelcomms\source\repos\Project1\obj\Debug\Project1.pdb
